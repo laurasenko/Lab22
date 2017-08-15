@@ -4,10 +4,10 @@ var puns = [
 	image: "/imgs/buzz.jpg"},
 
 	{name: "What do you call the security outside of a Samsung Store?  Guardians of the Galaxy.", 
-	image: "/imgs/buzz.jpg"},
+	image: "/imgs/guardians.jpg"},
 
 	{name: "I can't believe I got fired from the calendar factory. All I did was take a day off.",
-	image: "/imgs/guardians.jpg"},
+	image: "/imgs/calendar.jpg"},
 
 	{name: "I'm reading a book about anti-gravity. It's impossible to put down.",
 	image: "/imgs/floatBook.jpg"},
