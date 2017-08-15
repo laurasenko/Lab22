@@ -1,0 +1,49 @@
+body {
+    font-family: 'Comic Sans', sans-serif;
+     background: radial-gradient(lightgreen, purple);
+}
+
+h1 {
+    color: darkgreen;
+    font-size: 200%;
+    text-shadow: 1px 1px 2px white, 0 0 25px blue, 0 0 5px lightblue;
+    text-align: center;
+}
+
+h3 {
+    color: darkgreen;
+}
+
+em{
+    color: blue;
+}
+
+.name {
+    color: blue;
+}
+
+img {
+    height: 30%;
+    width: 30%;
+    margin: 0 auto;
+    border: 15px solid blue;
+    padding: 10px;
+}
+
+.wrapper {
+    margin: 0 auto;
+    text-align: center;
+}
+
+span{
+    display: block;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+span::first-letter { 
+    font-size: 200%;
+    color: darkgreen;
+}
+
+
