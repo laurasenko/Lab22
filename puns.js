@@ -7,12 +7,12 @@ var puns = [
 	image: "/imgs/guardians.jpg"},
 
 	{name: "I can't believe I got fired from the calendar factory. All I did was take a day off.",
-	image: "/imgs/calendars.jpg"},
+	image: "/imgs/calendar.png"},
 
-	{name: "I'm reading a book about anti-gravity. It's impossible to put down.",
+	{name: "I am reading a book about anti-gravity. It's impossible to put down.",
 	image: "/imgs/floatBook.jpg"},
 
-	{name: "I'd tell you a chemistry joke but I know I wouldn't get a reaction.",
+	{name: "I would tell you a chemistry joke but I know I wouldn't get a reaction.",
 	image: "/imgs/periodicTable.jpg"},
 
 	{name: "I found a rock yesterday which measured 1760 yards in length. Must be some kind of milestone.",
