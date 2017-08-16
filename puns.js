@@ -7,7 +7,7 @@ var puns = [
 	image: "/imgs/guardians.jpg"},
 
 	{name: "I can't believe I got fired from the calendar factory. All I did was take a day off.",
-	image: "/imgs/calendar.jpg"},
+	image: "/imgs/calendars.jpg"},
 
 	{name: "I'm reading a book about anti-gravity. It's impossible to put down.",
 	image: "/imgs/floatBook.jpg"},
